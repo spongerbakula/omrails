@@ -10,6 +10,7 @@ gem 'aws-s3'
 gem 'faker'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
+gem 'newrelic_rpm'
 
 group :production do
 	gem 'pg'
