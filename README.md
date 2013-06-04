@@ -1,6 +1,6 @@
-# One Month Rails
+# Finterest
 
-THis is the sample application for 
-[*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
+This is just a learning project
 
-by [Mattan Griffel](http://mattangriffel.com)
+
+by [Alex Bakula-Davis](http://about.me/alexbdavis)
